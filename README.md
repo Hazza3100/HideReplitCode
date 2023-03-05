@@ -16,8 +16,8 @@ Hide your replit code with 2 simple steps!
     * Your code is hidden and works!
 ```
 
-## Example Cide
-```
+## Example Code
+```py
 import os
 import base64
 
